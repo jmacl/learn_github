@@ -1,2 +1,2 @@
 # learn_github
-Used to learn GitHub
+Repo that will be used to learn GitHub.
